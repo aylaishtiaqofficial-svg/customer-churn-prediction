@@ -58,5 +58,6 @@ Try advanced models like Random Forest or XGBoost
 
 Project Objective:
 To help businesses identify customers at risk of churn and take preventive actions to improve customer retention.
+
 Author:
 Ayla Ishtiaq
